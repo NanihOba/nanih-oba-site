@@ -1,0 +1,27 @@
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-image: url('assets/images/tribal-bg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    color: #f5f5dc;
+}
+header {
+    background-color: rgba(0,0,0,0.7);
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #ff9933;
+}
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #ffcc66;
+    text-shadow: 0 0 5px #ff6600;
+}
+.hero {
+    padding: 40px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #ffcc99;
+}
